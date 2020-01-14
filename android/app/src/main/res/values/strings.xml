@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flou Academy</string>
+    <string name="facebook_app_id">1893760197360517</string>
+    <string name="fb_login_protocol_scheme">fb1893760197360517</string>
+    <string name="flutter_downloader_notification_started">Descarga iniciada</string>
+    <string name="flutter_downloader_notification_in_progress">Descargando</string>
+    <string name="flutter_downloader_notification_canceled">Descarga cancelada</string>
+    <string name="flutter_downloader_notification_failed">Descarga fallida</string>
+    <string name="flutter_downloader_notification_complete">Descarga completada</string>
+    <string name="flutter_downloader_notification_paused">Descarga pausada</string>
+</resources>

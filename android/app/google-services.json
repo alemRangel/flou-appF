@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "997579530486",
+    "firebase_url": "https://flou-academy.firebaseio.com",
+    "project_id": "flou-academy",
+    "storage_bucket": "flou-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997579530486:android:969ffdab9710995c",
+        "android_client_info": {
+          "package_name": "com.flouacademy.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997579530486-5ri7k0jsn734aojksc8u181tjmod3fjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flouacademy.learning",
+            "certificate_hash": "72a7b107b039e4f9450200824b3c8c79ce5c4e5a"
+          }
+        },
+        {
+          "client_id": "997579530486-fp2gg49p6u13okmkmm1hjnh2rf0g43jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flouacademy.learning",
+            "certificate_hash": "3d6d39d1a4b53d2e774a1a233e7a42444b8b6146"
+          }
+        },
+        {
+          "client_id": "997579530486-g5abugnade9m2ktmhoiidlm0vbbtcoq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwUQTi8LH65JdyLY4iqSR90bUzXQhwPPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997579530486-g5abugnade9m2ktmhoiidlm0vbbtcoq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
